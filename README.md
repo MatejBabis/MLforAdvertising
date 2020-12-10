@@ -1,5 +1,7 @@
 # ML for Advertising Exercise
 
+> While the task description is in Czech, the exercise itself is carried out entirely in English.
+
 ## Část 1 - aukce
 Načtěte soubor “bids_train.csv”. Data obsahují záznamy z proběhlých aukcí. Prodejce nabízel reklamní prostor účastníkům aukce. V těchto aukcích soutěžili tři účastníci (bidders) A, B, a C, ale ne všichni se musí zúčastnit každé aukce. Hodnoty v tabulce jsou nabídky (bids) daného účastníka v dané aukci. Aukce je typu second-price; to znamená, že aukci vyhraje účastník s nejvyšší nabídkou a zaplatí druhou nejvyšší nabídku.
 
